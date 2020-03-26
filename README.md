@@ -4,13 +4,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-### `git clone`
-### `npm i`
-### `npm run start`
-### `cd root-html-file`
-### `npm i`
-### `npm start`
-### `open http://localhost:4200 `
+`git clone`
+
+`npm i`
+
+`npm run start`
+
+`cd root-html-file`
+
+`npm i`
+
+`npm start`
+
+`open http://localhost:4200 `
 
 ## Code scaffolding
 
