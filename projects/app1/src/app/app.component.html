@@ -1,0 +1,15 @@
+<!--
+<div class="dx-field">
+  <div class="dx-field-label">{{label}}</div>
+  <div class="dx-field-value">
+      <dx-text-box placeholder="Enter full name here..."></dx-text-box>
+  </div>
+</div>
+<dx-data-grid
+    id="gridContainer"
+    [dataSource]="customers"
+    [columns]="['CompanyName', 'City', 'State', 'Phone', 'Fax']"
+    [showBorders]="true">
+</dx-data-grid> -->
+
+<router-outlet [style.display]="isShow?'block':'none'" *ngIf="isShow"></router-outlet>
