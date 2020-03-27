@@ -352,11 +352,7 @@
               "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
             ],
             "customWebpackConfig": {
-              "path": "./projects/navbar/extra-webpack.config.js",
-              "mergeStrategies": {
-                "module.rules": "prepend"
-              },
-              "replaceDuplicatePlugins": true
+              "path": "./projects/navbar/extra-webpack.config.js"
             },
             "scripts": []
           },
@@ -482,11 +478,7 @@
               "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
             ],
             "customWebpackConfig": {
-              "path": "./projects/app1/extra-webpack.config.js",
-              "mergeStrategies": {
-                "module.rules": "prepend"
-              },
-              "replaceDuplicatePlugins": true
+              "path": "./projects/app1/extra-webpack.config.js"
             },
             "scripts": []
           },
@@ -512,11 +504,6 @@
                   "type": "initial",
                   "maximumWarning": "2mb",
                   "maximumError": "5mb"
-                },
-                {
-                  "type": "anyComponentStyle",
-                  "maximumWarning": "6kb",
-                  "maximumError": "10kb"
                 }
               ]
             }
@@ -612,11 +599,7 @@
               "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
             ],
             "customWebpackConfig": {
-              "path": "./projects/app2/extra-webpack.config.js",
-              "mergeStrategies": {
-                "module.rules": "prepend"
-              },
-              "replaceDuplicatePlugins": true
+              "path": "./projects/app2/extra-webpack.config.js"
             },
             "scripts": []
           },
@@ -742,11 +725,7 @@
               "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
             ],
             "customWebpackConfig": {
-              "path": "./projects/app2/extra-webpack.config.js",
-              "mergeStrategies": {
-                "module.rules": "prepend"
-              },
-              "replaceDuplicatePlugins": true
+              "path": "./projects/app2/extra-webpack.config.js"
             },
             "scripts": []
           },
