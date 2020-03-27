@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.11.
 
+## Dome
+http://140.82.2.52/root-html-file
+
 ## Development server
 
 `git clone`
