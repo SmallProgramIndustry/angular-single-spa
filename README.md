@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Dome
 http://140.82.2.52/root-html-file
 
+Merge according to this project and plan to practice it yourself：
+https://github.com/joeldenning/coexisting-angular-microfrontends
+
 ## Development server
 
 `git clone`
